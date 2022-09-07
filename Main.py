@@ -9,3 +9,4 @@ while len(actual_list) < length_of_circular_linked_list and value < len(circular
     value += 1
 print(len(actual_list))
 print(" ".join(str(num) for num in actual_list))
+
